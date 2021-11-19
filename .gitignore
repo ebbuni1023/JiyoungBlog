@@ -1,2 +1,3 @@
 # /node-postgres
 .env
+/node_modules
